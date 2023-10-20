@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I am Abhishek 👋
 
+As a self-taught MERN stack developer, I have a relentless drive to continue learning and improving my skills. With a passion for creating innovative solutions, I am constantly seeking out new challenges and opportunities to push the boundaries of what's possible. With a strong foundation in MongoDB, Express, React, and Node.js, I am confident in my ability to develop high-quality, scalable applications that deliver exceptional user experiences. As I continue to expand my knowledge and expertise, I am excited to take on new projects and collaborate with other talented developers to bring cutting-edge ideas to life.
 <!--
 **glaucusec/glaucusec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+* 🌍  I'm based in Kochi, Kerala, India
+* 🖥️  See my portfolio at [My Portfolio](http://glaucusec.github.io/)
+* ✉️  You can contact me at [abhishekbaiju@protonmail.com](mailto:abhishekbaiju@protonmail.com)
+* 🚀  I'm currently looking for SDE Roles
+* 🧠  I'm learning to build scalable Backend Applications
+* 🤝  I'm open to collaborating and building projects using the MERN stack!
