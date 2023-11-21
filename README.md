@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Looking land first SDE role ...<br>📚 I'm currently learning NextJS, SSR ...<br>💻 Projects: Group Chat Application, Expense Tracker, etc...<br>📫  Reach me on: abhishekbaiju@proton.me</p>
+<p align="left">✨ LBreaking the code, and hopefully soon breaking into the industry ...<br>📚 I'm currently learning NextJS, SSR ...<br>💻 Projects: Group Chat Application, Expense Tracker, etc...<br>📫  Reach me on: abhishekbaiju@proton.me</p>
 
 ###
 
