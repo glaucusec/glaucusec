@@ -12,6 +12,7 @@ I'm a Full Stack Developer with expertise in Backend.
 - Reach me on: abhishekbaiju@proton.me</p>
 
 ### 🛠️ Technologies & Tools
+
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&color=informational&logo=next.js)
 ![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&color=informational&logo=tailwindcss)
@@ -24,5 +25,3 @@ I'm a Full Stack Developer with expertise in Backend.
 ![](https://img.shields.io/badge/Tool-Nginx-informational?style=flat&color=informational&logo=nginx)
 ![](https://img.shields.io/badge/Tool-Aws-informational?style=flat&color=informational&logo=aws)
 ![](https://img.shields.io/badge/Tool-Graphql-informational?style=flat&color=informational&logo=graphql)
-
-###
