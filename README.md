@@ -1,16 +1,18 @@
-### Hello 👋
-I'm a Full Stack Developer with expertise in Backend.
+<table border="0" width="100%">
+  <tr>
+    <td align="left" valign="top">
+      <h2>Abishek</h2>
+      <p><code>full stack developer · open for roles</code></p>
+    </td>
+    <td align="right" valign="top">
+      <a href="https://invertpdfnow.com"><code>[ INVERTPDFNOW ]</code></a><br>
+      <a href="https://github.com/glaucusec"><code>[ PIXYTALK ]</code></a><br>
+      <a href="mailto:abhishekbaiju@proton.me"><code>[ CONTACT ]</code></a>
+    </td>
+  </tr>
+</table>
 
-### About me
-- ✨ Breaking the code, and hopefully soon breaking into the industry ...
-- 📚 I'm currently learning NextJS, Typescript, etc.. ...
-- 💻 Projects:
-  - [BlinkBuy](https://github.com/glaucusec/BlinkBuy)
-  - [ClassiMail](https://github.com/glaucusec/ClassiMail),
-  - [Group Chat Application](https://github.com/glaucusec/chat-application)
-  - [Expense Tracker](https://github.com/glaucusec/expense-tracker)
-- Reach me on: abhishekbaiju@proton.me</p>
-
+**Contact:** [abhishekbaiju@pm.me](mailto:abhishekbaiju@pm.me)
 ### 🛠️ Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
