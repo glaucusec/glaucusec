@@ -5,14 +5,13 @@
       <p><code>full stack developer · open for roles</code></p>
     </td>
     <td align="right" valign="top">
-      <a href="https://invertpdfnow.com"><code>[ INVERTPDFNOW ]</code></a><br>
-      <a href="https://github.com/glaucusec"><code>[ PIXYTALK ]</code></a><br>
-      <a href="mailto:abhishekbaiju@proton.me"><code>[ CONTACT ]</code></a>
+      <a href="https://invertpdfnow.com"><code>[ invertpdfnow.com ]</code></a><br>
+      <a href="https://github.com/glaucusec"><code>[ Pixytalk ]</code></a><br>
+      <a href="mailto:abhishekbaiju@proton.me"><code>[ contact ]</code></a>
     </td>
   </tr>
 </table>
 
-**Contact:** [abhishekbaiju@pm.me](mailto:abhishekbaiju@pm.me)
 ### 🛠️ Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
